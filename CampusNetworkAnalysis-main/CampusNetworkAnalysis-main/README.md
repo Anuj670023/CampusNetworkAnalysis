@@ -32,7 +32,7 @@ The repository contains:
 
 ## 📌 Authors
 
-- Anshul Chaturvedi
+- ANUJ MAURYA
 
 ---
 
